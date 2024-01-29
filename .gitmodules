@@ -1,0 +1,3 @@
+[submodule "toxoid"]
+	path = toxoid
+	url = https://github.com/toxoidengine/toxoid
